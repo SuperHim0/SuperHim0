@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Himanshu Kumar and I'm a Backend Developer, from ....</h2>
+<h2 align="left"></h2>
 
 ###
 
