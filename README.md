@@ -1,12 +1,24 @@
 ### Hi there 👋
 
 <!--
-**SuperHim0/SuperHim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SuperHim0/SuperHim0**I'm Himanshu Kumar, a backend developer passionate about building robust and scalable applications using Java Spring Boot, JDBC, and Servlet. Currently pursuing my BTech degree, I'm enthusiastic about leveraging technology to solve real-world problems.
+
+🚀 My tech stack includes:
+- Languages: Java, HTML, CSS
+- Frameworks: Spring Boot
+- Databases: MySQL, PostgreSQL
+- Tools: Git, IntelliJ IDEA, Maven
+
+💡 I'm constantly learning and exploring new technologies to enhance my skills and stay updated with the latest trends in software development.
+
+📫 Let's connect! Feel free to reach out to me on LinkedIn [insert your LinkedIn profile link] for collaborations or discussions on all things tech.
+
+Happy coding! 💻
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on mdu as a student 
+- 🌱 I’m currently learning fornend 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
