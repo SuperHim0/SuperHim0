@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**SuperHim0/SuperHim0**I'm Himanshu Kumar, a backend developer passionate about building robust and scalable applications using Java Spring Boot, JDBC, and Servlet. Currently pursuing my BTech degree, I'm enthusiastic about leveraging technology to solve real-world problems.
+### Hi there 👋 I'm Himanshu Kumar, a backend developer passionate about building robust and scalable applications using Java Spring Boot, JDBC, and Servlet. Currently pursuing my BTech degree, I'm enthusiastic about leveraging technology to solve real-world problems.
 
 🚀 My tech stack includes:
 - Languages: Java, HTML, CSS
@@ -14,6 +11,9 @@
 📫 Let's connect! Feel free to reach out to me on LinkedIn [insert your LinkedIn profile link] for collaborations or discussions on all things tech.
 
 Happy coding! 💻
+
+<!--
+**SuperHim0/SuperHim0**
 
 Here are some ideas to get you started:
 
