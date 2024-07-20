@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h2 align="left"></h2>
+
+#<h2 align="left"></h2>
 
 ###
 
@@ -76,5 +76,5 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/SuperHIm0/SuperHIm0/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
