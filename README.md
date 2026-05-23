@@ -1,80 +1,165 @@
-### Hi there 👋 I'm Himanshu Kumar, a backend developer passionate about building robust and scalable applications using Java Spring Boot, JDBC, and Servlet. Currently pursuing my BTech degree, I'm enthusiastic about leveraging technology to solve real-world problems.
+# Hi there 👋, I'm Himanshu Kumar
 
-🚀 My tech stack includes:
-- Languages: Java, HTML, CSS
-- Frameworks: Spring Boot
-- Databases: MySQL, PostgreSQL
-- Tools: Git, IntelliJ IDEA, Maven
+## DevOps Engineer | Linux | Docker | Nginx | CI/CD | Cloud Deployment
 
-💡 I'm constantly learning and exploring new technologies to enhance my skills and stay updated with the latest trends in software development.
+I am a DevOps Engineer at **Mobiloitte Technologies** with **1 year of hands-on experience** in server management, deployment automation, CI/CD pipelines, Docker, Nginx/Apache configuration, SSL setup, monitoring, and production issue troubleshooting.
 
-📫 Let's connect! Feel free to reach out to me on LinkedIn [insert your LinkedIn profile link] for collaborations or discussions on all things tech.
+I enjoy working on real-world infrastructure problems, improving deployment processes, and making applications secure, scalable, and production-ready.
 
-Happy coding! 💻
+---
 
-<!--
-**SuperHim0/SuperHim0**
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 💼 Currently working as a **DevOps Engineer at Mobiloitte Technologies**
+- 🧑‍💻 1 year of practical experience in DevOps and server operations
+- ⚙️ Skilled in Linux server management, deployment, reverse proxy setup, and troubleshooting
+- 🐳 Working with Docker, Docker Compose, Nginx, Apache, Git, and CI/CD workflows
+- 🔐 Experienced in SSL certificate setup, domain/DNS configuration, and production server hardening
+- 📈 Interested in cloud infrastructure, automation, monitoring, and scalable deployment systems
+- 🎯 Goal: To become a strong DevOps, Cloud, and Site Reliability Engineer
 
-- 🔭 I’m currently working on mdu as a student 
-- 🌱 I’m currently learning fornend 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-#<h2 align="left"></h2>
+## 🛠️ Skills & Technologies
 
-###
+### DevOps & Server Management
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuperHIm0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperHIm0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### Containerization
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-###
+### CI/CD & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-02569B?style=for-the-badge&logo=cloudflare&logoColor=white)
+![SSL](https://img.shields.io/badge/SSL%2FTLS-4CAF50?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-###
+### Monitoring & Troubleshooting
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Logs](https://img.shields.io/badge/Log_Analysis-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Server Monitoring](https://img.shields.io/badge/Server_Monitoring-0078D4?style=for-the-badge&logo=grafana&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-</div>
+### Backend Knowledge
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-###
+---
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCRgeYxOt5Qkgphs_Nn6iPsg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="www.linkedin.com/in/him-kumar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 🔧 What I Work On
 
-###
+- Production server deployment and maintenance
+- Nginx and Apache reverse proxy configuration
+- SSL certificate installation and renewal using Certbot
+- Docker and Docker Compose based application deployment
+- CI/CD pipeline setup and deployment automation
+- DNS configuration and domain pointing
+- Backend service deployment using Node.js, Python, Java, and PHP stacks
+- Log checking, server monitoring, and issue debugging
+- Website migration, backup, and restoration
+- Security headers and basic server hardening
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/SuperHIm0/SuperHIm0/output/snake.svg" alt="Snake animation" />
--->
-###
+## 📌 Featured DevOps Projects
+
+### 🔹 Blue-Green Deployment with Nginx and Docker
+
+A zero-downtime deployment setup where traffic can be switched between Blue and Green environments using Nginx reverse proxy.
+
+**Tech Stack:** Nginx, Docker, Docker Compose, Bash, Linux  
+**Features:**
+- Blue and Green app environments
+- Health check before switching traffic
+- Rollback support
+- Nginx upstream switching
+
+**Repository:** [Add your repo link here](https://github.com/SuperHim0)
+
+---
+
+### 🔹 Dockerized Application Deployment
+
+A complete Docker Compose based deployment setup for running web applications with persistent volumes, health checks, and restart policies.
+
+**Tech Stack:** Docker, Docker Compose, Linux, Nginx  
+**Features:**
+- Multi-container application setup
+- Persistent volume configuration
+- Health check support
+- Production-ready restart policy
+
+**Repository:** [Add your repo link here](https://github.com/SuperHim0)
+
+---
+
+### 🔹 Nginx Static Site Deployment
+
+Production-ready static website deployment using Nginx with proper root path, caching, logs, and SPA routing support.
+
+**Tech Stack:** Nginx, Linux, Certbot, DNS  
+**Features:**
+- Static site hosting
+- WWW and non-WWW redirection
+- SSL setup
+- Cache control for assets
+- Access and error logging
+
+**Repository:** [Add your repo link here](https://github.com/SuperHim0)
+
+---
+
+### 🔹 Server Monitoring and Log Analysis
+
+A Linux-based monitoring and troubleshooting project for checking CPU, memory, disk usage, running services, and application logs.
+
+**Tech Stack:** Linux, Bash, Systemctl, Journalctl, Nginx Logs  
+**Features:**
+- CPU and memory usage checks
+- Service status checks
+- Nginx/Apache log analysis
+- Disk usage monitoring
+- Basic alerting script
+
+**Repository:** [Add your repo link here](https://github.com/SuperHim0)
+
+---
+
+## 📊 GitHub Stats
+
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuperHim0&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperHim0&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SuperHim0&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: [Add your LinkedIn profile link here](https://www.linkedin.com/)
+- 📧 Email: Add your email here
+- 🌍 Portfolio: Add your portfolio website here
+- 🧑‍💻 GitHub: [SuperHim0](https://github.com/SuperHim0)
+
+---
+
+## 💡 Professional Focus
+
+> Building reliable, secure, and scalable infrastructure through automation, monitoring, and continuous improvement.
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
